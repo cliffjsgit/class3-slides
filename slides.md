@@ -181,7 +181,13 @@ for line in fin:
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-
+# Grading Guidelines:
+# - No answer variables needed. Grading script will call function.
+# - Function 'is_abecedarian' should return boolean True/False depending on if
+# the letters are in alphabetical order.
+#
+# 1. Write a function called is_abecedarian that returns True if the letters in
+# a word appear in alphabetical order (double letters are ok).
 </code></pre>
 
 +++++
