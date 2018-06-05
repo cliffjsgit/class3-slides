@@ -192,7 +192,7 @@ for line in fin:
 
 +++++
 
-You should have seen a recurring pattern in those questions. They all could be solved with the following search pattern that is from chapter 8:
+You should have seen a recurring pattern in those questions. They all could be solved with the following search pattern that is from chapter 7:
 
 ```python
 def has_no_e(word):
