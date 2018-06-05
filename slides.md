@@ -1,5 +1,5 @@
 ---
-title: 'Class 3: Chapter 9: Case Study: word play / Chapter 10: Lists'
+title: 'Class 3: Chapter 9: Case Study: word play'
 separator: '\-\-\-\-\-'
 verticalSeparator: '\+\+\+\+\+'
 theme: 'moon'
