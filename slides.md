@@ -16,7 +16,7 @@ revealOptions:
 
 ##### Chapter 9: Case Study: word play
 
-##### Code: [https://coder.run/1402-chap9](https://coder.run/1402-chap9)
+##### Code: [https://bit.ly/1402-chap9](https://bit.ly/1402-chap9)
 
 +++++
 
@@ -332,5 +332,5 @@ Talk about project before homework, next slide.
 
 ##### Project 1
 
-##### [https://coder.run/1402-project1](https://coder.run/1402-project1)
+##### [https://bit.ly/1402-project1](https://bit.ly/1402-project1)
 
