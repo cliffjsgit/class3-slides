@@ -293,7 +293,7 @@ def is_abcedarian(word):
 
 +++++
 
-Recursion is probably the best way, but can be a little confusion for novice programmers:
+Recursion is probably the best way, but can be a little confusing for newer programmers:
 
 ```python
 def is_abcedarian(word):
