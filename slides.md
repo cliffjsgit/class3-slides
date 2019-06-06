@@ -323,7 +323,6 @@ because this is programming, there are other ways to code this including variati
 +++++
 
 Homework: Exercises 9.7 - 9.8.
-Extra Credit: 9.9 - 5 pts
 
 Note:
 Talk about project before homework, next slide.
