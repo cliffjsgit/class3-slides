@@ -7,16 +7,16 @@ revealOptions:
     transition: 'fade'
 ---
 
-### ITSE-1402 Intermediate Python
+### ITSE-1042 Intermediate Python
 <span style="font-family:Helvetica Neue; font-weight:bold; color:#e49436">Class 3: Chapter 9: Case Study: word play</span>
 <br /><br />
-##### [https://bit.ly/1402-class3](https://bit.ly/1402-class3)
+<!---  ##### [https://bit.ly/1402-class3](https://bit.ly/1402-class3)  --->
 
 -----
 
 ##### Chapter 9: Case Study: word play
 
-##### Code: [https://bit.ly/1402-chap9](https://bit.ly/1402-chap9)
+<!--- ##### Code: [https://bit.ly/1402-chap9](https://bit.ly/1402-chap9) --->
 
 +++++
 
@@ -330,6 +330,14 @@ Talk about project before homework, next slide.
 -----
 
 ##### Project 1
+<!--- ##### [https://bit.ly/1402-project1](https://bit.ly/1402-project1) --->
+### Intermediate Python Project 1 
+Using the knowledge you have and the material covered in the chapters 1-9 of Think Python 2nd edition, 
+write a python script that is runnable from command line with no interaction that does the following:
+Crawls a website of your choice in search of some type of consumable content
+Downloads said content to a local directory for consumption
+Keeps track of content that has already been downloaded and does not re-download.
 
-##### [https://bit.ly/1402-project1](https://bit.ly/1402-project1)
+#### Note: PythonAnywhere allows access to a "whitelist" of web sites for education accounts:
+[https://www.pythonanywhere.com/whitelist/](https://www.pythonanywhere.com/whitelist/)
 
