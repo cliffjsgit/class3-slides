@@ -1,0 +1,34 @@
+Testing for useable URLs from PythonAnywhere:
+
+PythonAnywhere Whitelist 
+https://www.pythonanywhere.com/whitelist/
+
+from bs4 import BeautifulSoup
+import requests
+
+URL = "http://dataquestio.github.io/web-scraping-pages/simple.html"
+page = requests.get(URL)
+soup = BeautifulSoup(page.content, 'html.parser')
+print(soup.prettify())
+
+---------------------------------------------------------------------
+---------------------------------------------------------------------
+
+
+Works in PythonAnywhere: 
+URL = "http://dataquestio.github.io/web-scraping-pages/simple.html"
+URL = "https://www.python.org/"
+URL = "https://www.apple.com/"
+URL = "https://help.pythonanywhere.com/pages/"
+URL = "https://help.pythonanywhere.com/pages/UsingMySQL"
+URL = "https://www.bing.com/"
+URL = "https://www.google.com//"
+URL = "https://developer.uspto.gov/"
+
+URL = "https://codesignal.com/"    ???
+
+Fails:
+URL = "https://www.austincc.edu/"
+URL = "https://www.austintexas.org/"
+URL = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"
+
