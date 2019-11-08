@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 # First download the web page's content, using the Python requests library, request.get API
 # Python API Tutorial: Getting Started with APIs
 #   https://www.dataquest.io/blog/python-api-tutorial/
+
 URL = "http://dataquestio.github.io/web-scraping-pages/simple.html"
 print("***********************************************************************")
 print("** Web scraping  URL:", URL)
