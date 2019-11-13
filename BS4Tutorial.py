@@ -12,10 +12,10 @@ from bs4 import BeautifulSoup
 #   https://www.dataquest.io/blog/python-api-tutorial/
 
 URL = "http://dataquestio.github.io/web-scraping-pages/simple.html"
-print("***********************************************************************")
+print("***************************************************************************")
 print("** Web scraping  URL:", URL)
-print("** Tutorial at: https://www.dataquest.io/blog/python-api-tutorial/")
-print("***********************************************************************")
+print("** Tutorial: https://www.dataquest.io/blog/web-scraping-tutorial-python/ ")
+print("***************************************************************************")
 
 # Get Request the Web Page from the URL
 page = requests.get(URL)
