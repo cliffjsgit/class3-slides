@@ -335,8 +335,11 @@ Talk about project before homework, next slide.
 Using the knowledge you have and the material covered in the chapters 1-9 of Think Python 2nd edition, 
 write a python script that is runnable from command line with no interaction that does the following:
 1. Crawls a website of your choice in search of some type of consumable content
-2. Downloads said content to a local directory for consumption
+2. Displays (Downloads} said content to a local directory for consumption
 3. Keeps track of content that has already been downloaded and does not re-download.
+
+#### Tutorial: Python Web Scraping Using BeautifulSoup:
+[https://www.dataquest.io/blog/web-scraping-tutorial-python/](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
 #### Note: PythonAnywhere allows access to a "whitelist" of web sites for education accounts:
 [https://www.pythonanywhere.com/whitelist/](https://www.pythonanywhere.com/whitelist/)
