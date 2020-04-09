@@ -85,37 +85,14 @@ for line in fin:
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-# Grading Guidelines:
-# - Variable 'answer' must be a list containing 3 words
-# - List does not have to be in alphabetical order (but will be sorted)
-# - Words must remain unaltered from file (e.g. lower case, no whitespace, etc)
-#
-# Answer Example: 
-# - answer = ['aWord', 'anotherWord', 'oneMoreWord']
-#
-# 1. Write a program that reads words.txt and adds the words with more 
-# than 20 characters (not counting whitespace) to a list which is returned
-# by the function.
+# 1. Write a program that reads words.txt and prints the words with more 
+# than 20 characters (not counting whitespace).
 </code></pre>
 
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-# Grading Guidelines:
-# - Variable 'answer' must be a list containing both answers
-# - Variable 'answer1' must be a list containing all words without e
-# - Variable 'answer2' must be a int or float containing % of words without e
-# - Answers will be converted to numbers and graded with a buffer:
-# -- 'answer1' +/- 1%
-# -- 'answer2' +/- 5%
-# 
-# Answer Example: 
-# - answer1 = ['aWord', 'anotherWord', 'oneMoreWord']
-# - answer2 = 28
-# - answer = [answer1, answer2]
-#
-#
-# In 1939 Ernest Vincent Wright published a 50,000 word novel called Gadsby 
+# 2. In 1939 Ernest Vincent Wright published a 50,000 word novel called Gadsby 
 # that does not contain the letter "e". Since "e" is the most common letter in `
 # English, that's not easy to do.
 #
@@ -123,12 +100,11 @@ for line in fin:
 # most common symbol. It is slow going at first, but with caution and hours of 
 # training you can gradually gain facility.
 # 
-# All right, I'll stop now.
 # 
-# 1. Write a function "has_no_e" that returns True if the given word doesn't 
-# have the letter "e" in it. Use the function to create a list of only the
+# a. Write a function "has_no_e" that returns True if the given word doesn't 
+# have the letter "e" in it. 
+# b. Use the function to create a list of only the
 # words that have no "e". Then compute the percentage of words that have no "e".
-# Return these as objects in a list "answer".
 </code></pre>
 
 +++++
