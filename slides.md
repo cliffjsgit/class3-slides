@@ -22,6 +22,8 @@ revealOptions:
 
 In this chapter we will be looking at a list of 113,809 words made from a collection of valid crossword words and words used in other games. You will be searching this list for various things. This chapter should remind us of how to work with files and then reinforce the use of functions and manipulation of objects.
 
+Note: The words.txt file is available for download at http://greenteapress.com/thinkpython2/code/words.txt 
+ 
 +++++
 
 Beyond what you presently should know, you will need to know how to open an file and read it contents. 
