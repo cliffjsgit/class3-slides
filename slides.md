@@ -104,20 +104,14 @@ for line in fin:
 # a. Write a function "has_no_e" that returns True if the given word doesn't 
 # have the letter "e" in it. 
 # b. Use the function to create a list of only the
-# words that have no "e". Then compute the percentage of words that have no "e".
+# words that have no "e" in words.txt. Then compute the percentage of words that have no "e".
 </code></pre>
 
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-# Grading Guidelines:
-# - No answer variables needed. Grading script will call functions.
-# - Function 'avoids' should return boolean True/False depending on if
-# forbidden letters are found
-# - Function 'lowest_avoidance' should return a list of 5 lowercase letters
 #
-#
-# 1. Write a function named 'avoids' that takes a word and a string of forbidden 
+# 3. Write a function named 'avoids' that takes a word and a string of forbidden 
 # letters, and that returns True if the word doesn't use any of the forbidden 
 # letters.
 # 
@@ -128,31 +122,19 @@ for line in fin:
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-# Grading Guidelines:
-# - No answer variables needed. Grading script will call function.
-# - Function 'uses_only' should return boolean True/False depending on if
-# word only uses those letters
 #
-# 1. Write a function named uses_only that takes a word and a string of letters, 
+# 4. Write a function named uses_only that takes a word and a string of letters, 
 # and that returns True if the word contains only letters in the list.
 </code></pre>
 
 +++++
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
-# Grading Guidelines:
-# - No answer variable needed for question 1. Grading script will call function.
-# Variable 'answer2' is needed for answer 2.
-# - Function 'uses_all' should return boolean True/False depending on if
-# all the letters specified are in the word. 
-# - Variable 'answer2' should be the number of word that use all the vowels 
-# "aeiou".
 #
-# 1. Write a function named uses_all that takes a word and a string of required 
+# 5. Write a function named uses_all that takes a word and a string of required 
 # letters, and that returns True if the word uses all the required letters at 
 # least once.
-#
-# 2. How many words are there that use all the vowels aeiou? How about
+# How many words are there that use all the vowels aeiou? How about
 # aeiouy?
 </code></pre>
 
@@ -160,12 +142,9 @@ for line in fin:
 
 <pre class="stretch"><code class="python" data-trim data-noescape>
 # Grading Guidelines:
-# - No answer variables needed. Grading script will call function.
-# - Function 'is_abecedarian' should return boolean True/False depending on if
-# the letters are in alphabetical order.
-#
-# 1. Write a function called is_abecedarian that returns True if the letters in
+# 6. Write a function called is_abecedarian that returns True if the letters in
 # a word appear in alphabetical order (double letters are ok).
+# How many abecedarian words are there?
 </code></pre>
 
 +++++
