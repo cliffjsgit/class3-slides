@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# Example project for scraping and saving images from a Web site
+# Example of starting a project for scraping and saving images from a Web site
 #
 
 from bs4 import BeautifulSoup
