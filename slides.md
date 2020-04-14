@@ -298,6 +298,9 @@ write a python script that is runnable from command line with no interaction tha
 #### Tutorial: Python Web Scraping Using BeautifulSoup:
 [https://www.dataquest.io/blog/web-scraping-tutorial-python/](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
-#### Note: PythonAnywhere allows access to a "whitelist" of web sites for education accounts:
-[https://www.pythonanywhere.com/whitelist/](https://www.pythonanywhere.com/whitelist/)
+#### Note: PythonAnywhere allows access to a "whitelist" of web sites for Beginner / Education accounts:
+[https://www.pythonanywhere.com/whitelist/](https://www.pythonanywhere.com/whitelist/)  
+
+#### Example of a test program to see if a URL is accessible from PythonAnywhere Beginner Accounts:
+[https://github.com/cliffjsgit/class3-slides/blob/master/BS4TestedURLs.txt](https://github.com/cliffjsgit/class3-slides/blob/master/BS4TestedURLs.txt)
 
