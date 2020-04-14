@@ -13,7 +13,7 @@ print(soup.prettify())
 
 ---------------------------------------------------------------------
 ---------------------------------------------------------------------
-
+Example Web Site tested
 
 Works in PythonAnywhere: 
 URL = "http://dataquestio.github.io/web-scraping-pages/simple.html"
@@ -24,11 +24,14 @@ URL = "https://help.pythonanywhere.com/pages/UsingMySQL"
 URL = "https://www.bing.com/"
 URL = "https://www.google.com//"
 URL = "https://developer.uspto.gov/"
-
-URL = "https://codesignal.com/"    ???
+URL = "https://www.nfl.com/"
+ 
 
 Fails:
 URL = "https://www.austincc.edu/"
 URL = "https://www.austintexas.org/"
 URL = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"
+URL = "https://www.ibm.com/"
+URL = "https://codesignal.com/"
+
 
