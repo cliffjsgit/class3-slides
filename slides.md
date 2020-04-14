@@ -289,11 +289,12 @@ Talk about project before homework, next slide.
 ##### Project 1
 <!--- ##### [https://bit.ly/1402-project1](https://bit.ly/1402-project1) --->
 ### Intermediate Python Project 1 
-Using the knowledge you have and the material covered in the chapters 1-9 of Think Python 2nd edition, 
+Using the knowledge you have and the material covered in the chapters 1-9/10 of Think Python 2nd edition, 
 write a python script that is runnable from command line with no interaction that does the following:
-1. Crawls a website of your choice in search of some type of consumable web content.
-2. Displays said content (and/or downloads to a local directory for consumption).
-3. Keeps track of content that has already been downloaded and does not re-download.
+1. Crawls a website of your choice in search of some type of consumable web content from the website.
+2. Displays the web content based on the HTML tag (and/or downloads it to a local directory) for the user's consumption.
+3. Keep a count on the web content items based on the HTML tag. 
+3. Keeps track of the content that has already been downloaded and does not re-download.
 
 #### Tutorial: Python Web Scraping Using BeautifulSoup:
 [https://www.dataquest.io/blog/web-scraping-tutorial-python/](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
