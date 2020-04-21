@@ -258,7 +258,7 @@ def is_abcedarian(word):
         return True
     if word[0] > word[1]:
         return False
-    return is_abcedarian[1:]
+    return is_abecedarian(word[1:])
 ```
 
 +++++
